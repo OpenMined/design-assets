@@ -1,0 +1,31 @@
+Welcome to Prime Design System Kit!
+
+To you begin your journey with Prime, please follow the steps below:
+
+1. Before you open Sketch files, make sure that you have following fonts installed: 
+    - SF Pro Display
+    - SF Pro Text
+    - Roboto
+    - Montserrat
+    - 
+If you do not have them download and install fonts from the following link:
+    - https://developer.apple.com/fonts/
+    - https://fonts.google.com/specimen/Roboto
+    - https://fonts.google.com/specimen/Montserrat
+    - 
+Without these fonts, you may experience layout issues for the basic setup of the libraries.
+
+
+2. Set up “Prime - The Core” as Sketch Library. 
+The file is a foundation for Prime elements & components - it includes, Layer & Text Styles, Shapes, Colors & Gradients.
+
+
+3. Attach additional Prime files as Libraries. 
+If your project will include Charts, Device Templates or Illustrations they may be useful.
+
+4. Check out this post with the quick start guide:
+https://uxmisfit.com/2019/10/09/prime-2-0-quick-start-guide/
+
+
+Enjoy!
+Thalion
