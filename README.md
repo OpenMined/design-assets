@@ -1,7 +1,5 @@
-# OpenMined Design Assets
+# OpenMined Design Assets (Archived)
 
-Welcome to the OpenMined design assets repository. Here you'll find the latest logos in various formats, as well as Sketch design files of our website and other applications.
+> **This repository has been archived.** For current OpenMined brand assets and guidelines, please visit [brand.openmined.org](https://brand.openmined.org).
 
-## Usage
-
-**Please do follow the [design guidelines stated in the brand manual](https://www.openmined.org/assets/openmined-brand-guide.pdf) when you use these assets.** 
+This repository previously contained OpenMined logos, Sketch design files, and other brand assets. It is no longer maintained.
